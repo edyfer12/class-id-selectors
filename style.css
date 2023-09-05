@@ -16,3 +16,8 @@
 }
 
 /* Place CSS rule to stylize the fourth element different to all other elements*/
+#fourth {
+    background-color: rgb(68, 156, 68);
+    font-size: 24px;
+    font-weight: bold;
+}
