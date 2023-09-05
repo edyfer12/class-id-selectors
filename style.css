@@ -5,6 +5,10 @@
 }
 
 /* Place CSS rule to stylize the second element different to all other elements */
+#second {
+    color: rgb(7, 7, 255);
+    font-size: 36px;
+}
 
 /* Add extra CSS rule to stylize the third element, having same style for all other odd numbered elements */
 
