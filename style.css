@@ -11,5 +11,8 @@
 }
 
 /* Add extra CSS rule to stylize the third element, having same style for all other odd numbered elements */
+.odd.third {
+    font-size: 24px;
+}
 
 /* Place CSS rule to stylize the fourth element different to all other elements*/
