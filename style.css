@@ -1,4 +1,8 @@
 /* Place CSS rule to stylize odd numbered elements */
+.odd {
+    background-color: rgb(214, 120, 120);
+    font: "Verdana", "DejaVu Sans", sans-serif;
+}
 
 /* Place CSS rule to stylize the second element different to all other elements */
 
